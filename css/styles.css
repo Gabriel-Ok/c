@@ -1,0 +1,25 @@
+.best{
+  text-align: center;
+  font-size: 20px;
+  color:blue;
+  font-family: "Courier New", monospace;
+}
+img.blackforest{
+  margin-left: 366px;
+}
+ul{
+  display: inline-flex;
+}
+p.flashy{
+  color: red;
+  font-style: italic;
+
+}
+body{
+  background-color: #AAAAAA;
+
+}
+h1{
+  text-align: center;
+  color: blue;
+}
