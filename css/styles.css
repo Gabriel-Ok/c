@@ -4,6 +4,11 @@
   color:blue;
   font-family: "Courier New", monospace;
 }
+.first
+{
+  text-align: center;
+  font-weight: bolder;
+}
 img.blackforest{
   margin-left: 366px;
 }
