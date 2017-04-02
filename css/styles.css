@@ -8,15 +8,14 @@
 {
   text-align: center;
   font-weight: bolder;
+  transition: subl
 }
-img.blackforest{
-  transition: transform:300ms; ease-in-out; transition-delay: 1s;
-  pointer-events: none;
+img.blackforest
+{
   margin-left: 366px;
-  hover; img.blackforest
-
-}
-ul{
+  }
+ul
+{
   display: inline-flex;
 }
 p.flashy{
@@ -33,8 +32,4 @@ body{
 h1{
   text-align: center;
   color: blue;
-}
-.break
-{
-  page-break-after: left;
 }
